@@ -1,2 +1,9 @@
 Ray Tracer
 ==========
+
+This is a ray tracer written in C++. CMake is used to make the project. A set of example scenes are provided in the inputFiles directory. ImageMagick can be used to view the resulting PPM images if your favourite image viewer does not support them. 
+
+References
+==========
+
+'Ray Tracing from the Ground Up' by Kevin Suffern was used for reference when making this project. This book is highly recommended if you are looking to write a ray tracer.
