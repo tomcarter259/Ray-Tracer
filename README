@@ -1,7 +1,9 @@
 Ray Tracer
 ==========
 
-This is a ray tracer written in C++. CMake is used to make the project. A set of example scenes are provided in the inputFiles directory. ImageMagick can be used to view the resulting PPM images if your favourite image viewer does not support them. 
+A ray tracer written for a university coursework. It reads in a scene from a text file, renders it and then produces an image in the PPM format. It is capable of rendering planes, spheres and triangles with either lambertian or specular materials. Ambient illumination, point lights and reflection are also possible.
+
+CMake is used to make the project. A set of example scenes are provided in the inputFiles directory. ImageMagick can be used to view the resulting PPM images if your favourite image viewer does not support them. 
 
 References
 ==========
