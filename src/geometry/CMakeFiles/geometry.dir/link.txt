@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libgeometry.a  CMakeFiles/geometry.dir/Plane.o CMakeFiles/geometry.dir/GeometricObject.o CMakeFiles/geometry.dir/Triangle.o CMakeFiles/geometry.dir/Sphere.o
+/usr/bin/ranlib ../../lib/libgeometry.a

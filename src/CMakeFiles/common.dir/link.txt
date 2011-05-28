@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../lib/libcommon.a  CMakeFiles/common.dir/World.cpp.o CMakeFiles/common.dir/Camera.cpp.o CMakeFiles/common.dir/PPM.cpp.o CMakeFiles/common.dir/Main.cpp.o
+/usr/bin/ranlib ../lib/libcommon.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libutils.a  CMakeFiles/utils.dir/Shade.cpp.o CMakeFiles/utils.dir/Ray.cpp.o CMakeFiles/utils.dir/Point3D.cpp.o CMakeFiles/utils.dir/Vector3D.cpp.o CMakeFiles/utils.dir/RGB.cpp.o CMakeFiles/utils.dir/Normal.cpp.o
+/usr/bin/ranlib ../../lib/libutils.a

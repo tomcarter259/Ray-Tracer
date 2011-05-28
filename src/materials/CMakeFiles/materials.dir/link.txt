@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libmaterials.a  CMakeFiles/materials.dir/Lambertian.o CMakeFiles/materials.dir/Material.o
+/usr/bin/ranlib ../../lib/libmaterials.a

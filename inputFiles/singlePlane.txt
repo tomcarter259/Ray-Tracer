@@ -1,0 +1,17 @@
+# Single Plane #
+
+# camera #
+cam.hres 200
+cam.vres 200
+cam.origin 0 0 200
+cam.direction 0 0 -1
+cam.up 0 1 0
+cam.fovX 45
+cam.fovY 45
+
+# plane #
+plane.origin 0 0 100
+plane.normal -1 4 1
+
+# tracer #
+tracer singlePlane

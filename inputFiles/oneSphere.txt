@@ -1,0 +1,20 @@
+# Single Sphere #
+
+# camera #
+cam.hres 200
+cam.vres 200
+cam.origin 0 0 200
+cam.direction 0 0 -1
+cam.up 0 1 0
+cam.fovX 45
+cam.fovY 45
+
+# sphere #
+sphere.new
+sphere.origin 0 0 0
+sphere.radius 80
+sphere.color 0 0 1
+sphere.end
+
+# tracer #
+tracer multi

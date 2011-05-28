@@ -1,0 +1,66 @@
+# Coooool #
+
+# camera #
+cam.hres 200
+cam.vres 200
+cam.origin 0 0 200
+cam.direction 0 0 -1
+cam.up 0 1 0
+cam.fovX 45
+cam.fovY 45
+
+# sphere 1 #
+sphere.new
+sphere.origin 0 0 0
+sphere.radius 40
+sphere.lambertian
+lambertian.ka 0.16
+lambertian.kd 0.65
+lambertian.cs 0 1 0
+lambertian.end
+sphere.end
+
+# sphere 2 #
+sphere.new
+sphere.origin 80 -80 -80
+sphere.radius 40
+sphere.lambertian
+lambertian.ka 0.16
+lambertian.kd 0.65
+lambertian.cs 1 0 0
+lambertian.end
+sphere.end
+
+# sphere 3 #
+sphere.new
+sphere.origin 40 -40 -40
+sphere.radius 40
+sphere.lambertian
+lambertian.ka 0.16
+lambertian.kd 0.65
+lambertian.cs 1 1 0
+lambertian.end
+sphere.end
+
+# sphere 4 #
+sphere.new
+sphere.origin -40 40 40
+sphere.radius 40
+sphere.lambertian
+lambertian.ka 0.16
+lambertian.kd 0.65
+lambertian.cs 0 0 1
+lambertian.end
+sphere.end
+
+# ambient on #
+ambient.new
+
+# light 1 #
+pointlight.new
+pointlight.origin 100 50 150
+pointlight.intensity 3
+pointlight.end
+
+# tracer #
+tracer raycast

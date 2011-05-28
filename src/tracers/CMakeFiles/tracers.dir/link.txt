@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libtracers.a  CMakeFiles/tracers.dir/Tracer.o CMakeFiles/tracers.dir/RayCast.o CMakeFiles/tracers.dir/Multi.o
+/usr/bin/ranlib ../../lib/libtracers.a

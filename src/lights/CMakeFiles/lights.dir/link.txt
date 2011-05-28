@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/liblights.a  CMakeFiles/lights.dir/PointLight.o CMakeFiles/lights.dir/Ambient.o CMakeFiles/lights.dir/Light.o
+/usr/bin/ranlib ../../lib/liblights.a

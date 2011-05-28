@@ -1,0 +1,1 @@
+/usr/bin/c++   -pedantic -Wall   CMakeFiles/rayTracer.dir/Main.cpp.o  -o ../bin/rayTracer -rdynamic ../lib/libcommon.a ../lib/libgeometry.a ../lib/libutils.a ../lib/libtracers.a ../lib/liblights.a ../lib/libmaterials.a ../lib/libcommon.a 
